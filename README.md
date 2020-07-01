@@ -1,3 +1,9 @@
+<!--
+<p align='center'>
+	<img src='./img/recycloan.png'/>
+</p>
+-->
+
 Recycloan
 ---
 <!-- Support Entrepreneurs by giving microloans through your FireTV 
