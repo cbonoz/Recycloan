@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:exposed-instrumentation-api-publish:0.4.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AMZNMediaPlayerComponent/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AMZNMediaPlayerComponent/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/dafd4cda8c69b554fb596a1c167f871bd2862674/exposed-instrumentation-api-publish-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

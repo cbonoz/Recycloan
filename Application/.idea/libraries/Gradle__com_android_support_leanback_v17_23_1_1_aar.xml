@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:leanback-v17:23.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TVUIComponent/lib/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TVUIComponent/lib/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/leanback-v17/23.1.1/3e9dd81d78e92af29bb13da1ae9ab63b8879e927/leanback-v17-23.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

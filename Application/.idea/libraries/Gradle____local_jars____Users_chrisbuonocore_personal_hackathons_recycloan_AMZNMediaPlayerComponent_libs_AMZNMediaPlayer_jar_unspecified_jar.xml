@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/chrisbuonocore/personal/hackathons/recycloan/AMZNMediaPlayerComponent/libs/AMZNMediaPlayer.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AMZNMediaPlayerComponent/libs/AMZNMediaPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
